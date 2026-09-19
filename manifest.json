@@ -1,10 +1,9 @@
 {
-  "id": "rgbtv",
+  "id": "RGBTv",
   "version": "2.1.3",
-  "type": "web",
-  "title": "RGBTv",
-  "appDescription": "RGBTv for webOS",
-  "sourceUrl": "https://github.com/bahaeddineragueb-oss/RGBTv",
-  "rootRequired": false,
-  "ipkUrl": "https://github.com/bahaeddineragueb-oss/RGBTv/releases/download/v2.1.3/RGBTv_v2.1.3.ipk"
+  "ipkUrl": "https://github.com/bahaeddineragueb-oss/RGBTv/releases/download/v2.1.3/RGBTv_v2.1.3.ipk",
+  "ipkHash": {
+    "sha256": "3b90ea51b980ec10d420678272c101f96429b45f0efb8b1452786d4081d13184"
+  },
+  "ipkSize": 249634
 }
