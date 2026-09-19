@@ -1,0 +1,10 @@
+{
+  "id": "rgbtv",
+  "version": "2.1.3",
+  "type": "web",
+  "title": "RGBTv",
+  "appDescription": "RGBTv for webOS",
+  "sourceUrl": "https://github.com/bahaeddineragueb-oss/RGBTv",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/bahaeddineragueb-oss/RGBTv/releases/download/v2.1.3/RGBTv_v2.1.3.ipk"
+}
